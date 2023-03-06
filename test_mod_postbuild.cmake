@@ -1,0 +1,1 @@
+message(WARNING "Test output")
